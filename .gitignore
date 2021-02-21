@@ -12,5 +12,5 @@
 /.docker/logs/nginx/*
 !/.docker/logs/nginx/.gitkeep
 
-/.docker/database/*
-!/.docker/database/.gitkeep
+/.docker/database/data/*
+!/.docker/database/data/.gitkeep
